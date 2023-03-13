@@ -12,4 +12,7 @@ public static void main(String args[])
   n2=n3;    
  }    
   System.out.println("hello World i am anil kumar");
+
+  System.out.println("the program is completed");
+
 }}  
